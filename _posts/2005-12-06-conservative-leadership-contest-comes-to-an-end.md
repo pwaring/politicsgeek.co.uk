@@ -1,0 +1,13 @@
+---
+layout: post
+title: Conservative leadership contest comes to an end
+date: 2005-12-06 11:22:07.000000000 +00:00
+---
+
+[Tories set to unveil new leader](http://news.bbc.co.uk/1/hi/uk_politics/4501586.stm)
+
+As the race to become leader of the Conservative party closes, supporters of both candidates must now spend a nervewracking day patiently awaiting for the result of the ballot of around a quarter of a million party members. The votes are currently being counted by the Electoral Reform Commission, and a final result is expected at 1500 GMT today. Until then we can only guess as to what the outcome will be and even then it will be some time before we will see if the Tories have finally chosen a leader who can take them to victory at the next election, or at least make them a half decent Official Opposition to the current Labour government which seems hell bent on pushing through legislation that is generally either impractical or widely unpopular (or in many cases a combination of the two).
+
+Although I haven't been a member of the Conservatives for some time, I still feel a connection and a sense of dependancy on this leadership contest. It saddens me when I hear a lot of people saying "we want the successful candidate to be someone who will continue to split the Conservative party and ensure that they never win another election". Not only does this show an unwillingness to accept that things may have changed since Thatcher's era (ironically this is an accusation that people often level at the party itself), but it also demonstrates a complete lack of understanding about how the political system works.
+
+Even if you utterly hate and despise everything about the Tories, the fact remains that they are the only real opposition to the government. Admittedly the Liberal Democrats are also on the opposition benches, but they hold less than a third of the number of seats currently controlled by the Conservatives, and their party does not contain many political heavyweights, not to mention a large number of people who have served in government in the past. Like it or not, for the time being the Conservatives are the main body of opposition in the House of Commons, and in a democracy it's vital that you have a strong force keeping a check on the government, regardless of whether you agree with the policies being put forward by either side. Wishing for a further weakened Conservative party is giving more strength to a Labour government which is already showing signs of attempting to use its majority to steamroller through its legislative programme with little or no scrunity.
