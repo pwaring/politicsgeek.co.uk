@@ -1,0 +1,24 @@
+---
+layout: post
+title: What currency for an independent Scotland?
+date: 2014-08-31 13:37:45.000000000 +01:00
+---
+One of the key questions regarding the upcoming referendum on Scottish independence is: what currency will Scotland use if the 'yes' vote prevails? At present, Scotland uses the same currency - sterling - as the rest of the UK, albeit with some minor quirks such as a one pound note and different designs for other denominations, which lead some retailers to be wary of accepting them. If Scotland votes to leave the union though, there are four broad options available.
+
+The simplest solution is to maintain the status quo, whereby Scotland retains sterling and Scottish and English notes remain legal tender in both Scotland and the remainder of the UK. Legal tender is an important technical issue - a currency which is legal tender can be used to meet financial obligations, so in this case anyone owed money for goods and services rendered (e.g. a restaurant owner) would not be able to refuse payment in Scottish notes.
+
+The second option is for Scotland to join the 'sterling zone', a collection of territories which produce their own sterling banknotes and coins and allow both to be used as legal tender, as is the case in Jersey. This differs from the current situation as it would mean that Scottish and English notes would be legal tender in Scotland, but Scottish notes would **not** be legal tender in the remainder of the UK.
+
+The sterling zone situation would effectively make Scottish notes less flexible than their English counterparts, though I suspect many large retailers would continue to accept both regardless, especially if they were close to the border. However, the three main UK parties - all of which are, to varying degrees, in favour of maintaining the union - have ruled out any possibility of a currency union. Whether they would continue with this opposition after the referendum remains to be seen - it could be a bluff to scare Scottish residents into voting 'no' to independence.
+
+Another option is for Scotland to join the euro, which it may have to anyway if it is required for apply for EU membership.[^eu-membership] This would impose transaction costs for many businesses who deal on both sides of the border - particularly financial institutions such as asset managers and banks - and these may be too heavy for small business to bear. However, using two different currencies in adjacent territories is not an insurmountable problem, nor it is without precedent - Northern Ireland and the Republic of Ireland being one example.[^ireland-pound] The SNP are keen to keep the pound though, and have ruled out use of the euro.
+
+The third option is for Scotland to have a currency which is pegged at a constant 1:1 exchange rate with sterling. This would not be legal tender in the UK, nor would it be backed in any way by the Bank of England. There are also real dangers with pegging one currency to another, as Argentina learnt when they attempted to peg the peso to the US dollar,[^peso-dollar] although these should be less of a risk for countries which are at similar levels of economic development. The main advantage of such a scheme is that it can be implemented without the permission of the remainder of the UK, and it could be used as a transitional arrangement whilst Scotland moved to another currency.
+
+A final option which has been suggested by some of the more enthusiastic supporters of independence is a completely new Scottish currency, which would have a floating exchange rate in the same way as sterling or the euro. Whilst this would give Scotland full control over its currency and interest rates, it has similar disadvantages to the euro (e.g. transaction costs when dealing with UK businesses) without the benefits which come from being part of a larger currency union. I'm not convinced that this would be a sensible move for Scotland or any of its trading partners.
+
+What, then, is likely to happen to Scotland's currency arrangements if the yes vote is victorious in the referendum? The current position is untenable, with Salmond arguing for a currency union which all the pro-union parties have ruled out, whilst rejecting the other options. With only three weeks left until we know the result of the referendum, no one has the answer to the most important economic question in the whole independence debate.
+
+[^eu-membership]: The subject of an independent Scotland's EU membership is a thorny issue which I will address in another post.
+[^ireland-pound]: Northern Ireland uses the pound, whereas the Republic of Ireland has adopted the euro, and they share a land border.
+[^peso-dollar]: Eventually Argentina had to abandon the peg, which resulted in a substantial devaluation of the peso. Legacy issues from the resulting crisis are still being argued in the courts today.
