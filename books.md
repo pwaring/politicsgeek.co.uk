@@ -10,6 +10,7 @@ permalink: /books/
 
  * [Servants of the People](http://www.amazon.co.uk/Servants-People-Inside-Story-Labour/dp/0140278508/rixort-21)
  * [The End of the Party](http://www.amazon.co.uk/End-Party-Andrew-Rawnsley/dp/0141046147/rixort-21)
+ * [A History of the British Labour Party](https://www.amazon.co.uk/dp/1137409827/rixort-21)
 
 ### Liberal Democrats
 
@@ -19,4 +20,3 @@ permalink: /books/
 
  * [So You Want to be a Political Journalist](http://www.amazon.co.uk/So-You-Want-Political-Journalist/dp/1849540853/rixort-21)
  * [Journalism: A Very Short Introduction](http://www.amazon.co.uk/Journalism-Very-Short-Introduction-Introductions/dp/0192806564/rixort-21)
-
