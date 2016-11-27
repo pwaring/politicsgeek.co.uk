@@ -69,7 +69,7 @@ withdraw from the leadership contest. Labour must then elect a new leader as
 soon as possible, to unite the party and provide an effective opposition at this
 time of political and economic uncertainty.
 
-Unfortunately, I don't think Corbyn will stick to his guns until removed by the
+Unfortunately, I think Corbyn will stick to his guns until removed by the
 membership, which of course he is entitled to do. Even if he were to change his
 mind, the current contenders to replace him -- Angela Eagle and Owen Smith -- do
 not appear to possess the skills required to present a united front. I am quite
