@@ -8,7 +8,11 @@ url: "https://www.politicsgeek.co.uk" # the base hostname & protocol for your si
 twitter_username: pwaring
 
 permalink: /:year/:month/:day/:title/
+#paginate: 10
 
 # Build settings
 markdown: kramdown
 destination: ./output
+
+# Gems
+#gems: [jekyll-paginate]
