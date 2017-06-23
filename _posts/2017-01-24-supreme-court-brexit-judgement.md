@@ -90,8 +90,8 @@ this is not an area where the courts can or should interfere.
 
 For people who were pro-Remain, the demolition of the devolution argument is
 unfortunate, as it had the potential to derail the whole process if, for
-example, the Scottish Parliament was able to veto a notification under Article
-50. However, it was always a fragile argument and I can't see any other way in
+example, the Scottish Parliament was able to veto a notification under Article 50.
+However, it was always a fragile argument and I can't see any other way in
 which the judges could have interpreted the legislation.
 
 One final note: the question of whether a notification under Article 50 can be
