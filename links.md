@@ -15,7 +15,6 @@ Know of a politics link which should be included here? [Contact me](/contact/) t
 
  * [Jazz Hands, Serious Business](http://jazzhandsseriousbusiness.wordpress.com/)
  * [Passing Nightmare](http://passingnightmare.co.uk/)
- * [Diary of a Political Hack](http://politicalhack.org/)
 
 ## Politicians
 
