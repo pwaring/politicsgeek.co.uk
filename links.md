@@ -16,11 +16,6 @@ Know of a politics link which should be included here? [Contact me](/contact/) t
  * [Jazz Hands, Serious Business](http://jazzhandsseriousbusiness.wordpress.com/)
  * [Passing Nightmare](http://passingnightmare.co.uk/)
 
-## Politicians
-
- * [Councillor Ian Bevan - Ramsbottom](http://cllrianbevan.wordpress.com/)
- * [David Nuttall MP - Bury North](http://davidnuttall.info/)
-
 ## Podcasts
 
  * [Politics Weekly](http://www.theguardian.com/politics/series/politicsweekly)
